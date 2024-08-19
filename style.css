@@ -1,0 +1,187 @@
+.nike{
+    height: 40px;
+    width: 80px;
+}
+.header{
+    display: flex;
+    justify-content: center;
+    flex-direction: row-reverse;
+    gap: 10px;
+ color: black ;
+}
+.icon{
+    width: 25px;
+    height: 25px;
+}
+
+ .header1{
+    display: flex;
+align-items: center;
+justify-content: space-between;
+ }
+.zurag{
+    width: 100vw;
+    height: 400px;
+
+
+ }
+ .negdugeerdoodheseg{
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+      
+ }
+ .negdugeerdoodheseg {
+    font-family: "Ga Maamli", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+ body{
+    border: 1px solid ;
+    margin: 0px;
+ }
+.shop{
+    color: white;
+    background-color: black;
+    border-radius: 6px ;
+  border: 4px solid black ;
+  text-align: center;
+
+}
+.shop:hover{
+background-color: white;
+}
+.atag:hover  {
+    color: black;
+    text-decoration: none;
+    border-bottom: 2px solid black;
+}
+.nike1{
+    width: 747px;
+    height: 500px;
+
+}
+.desc{
+    position: absolute;
+color: white ;
+    font-family: "Ga Maamli", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  
+ 
+}
+.container{
+   position: relative;
+}
+.nikezurag{
+    display: flex;
+    flex-wrap: wrap;
+  justify-content: center;
+  text-align: center;
+
+
+}
+.end{
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+}
+.shop2{
+    color: black;
+    background-color: white;
+    border-radius: 6px ;
+  border: 4px solid white   ;
+  width: 50px;
+  
+}
+.shop2:hover{
+background-color: black;
+}
+.hoyrdugaardoodheseg{
+     display: flex;
+   flex-direction: column;
+  
+}
+.hoyrdugaardoodheseg{
+    font-family: "Ga Maamli", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+.ptag2{
+    color: white;
+    background-color: black;
+    border-radius: 6px ;
+  border: 4px solid black ;
+  font-family: "Ga Maamli", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.ptag2:hover{
+ background-color: white;
+}
+.nike5{
+    width: 100vw;
+}
+.sneakers{
+    width: 250px;
+    border-radius: 50px;
+    /* display: flex;   */
+    /* justify-content: space-around; */
+}
+.sneakerscontainer{
+    position: relative;
+    display: flex;
+    /* padding: 20px; */
+}
+.desc2{
+    position: absolute;
+    font-family: "Ga Maamli", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.postercontainer{
+    position: relative;
+      /* display: flex;  */
+}
+.poster{
+    width: 300px;
+}   
+.descposter{
+    position: absolute;
+    /* display: flex; */
+    color: white;
+    font-family: "Ga Maamli", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.huree2{
+    display: flex;
+    /* justify-content: center; */
+    justify-content: space-around;
+}
+.shop3{
+  
+    color: black;
+    background-color: white;
+    border-radius: 6px ;
+  border: 4px solid white   ;
+  width: 50px;
+}
+.shop3:hover{
+    background-color: black;
+    }
+.huree1{
+    display: flex;
+    justify-content: space-between;
+    gap: 20px
+    ;
+}
+.button:hover{
+    background-color: red;
+}
+.garchig{
+        font-family: "Ga Maamli", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+      
+}
